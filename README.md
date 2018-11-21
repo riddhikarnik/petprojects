@@ -1,2 +1,2 @@
 # petprojects
-Pet Projects to showcase skillsets
+Code that I find interesting to keep or to practice upon.
